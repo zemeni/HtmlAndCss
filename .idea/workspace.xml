@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="299cb34f-02f3-422b-accc-873beccf9a5e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +38,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/css" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -59,6 +59,9 @@
     </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$PROJECT_DIR$/../.subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="299cb34f-02f3-422b-accc-873beccf9a5e" name="Default Changelist" comment="" />
@@ -66,7 +69,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657429592342</updated>
-      <workItem from="1657429593840" duration="1342000" />
+      <workItem from="1657429593840" duration="1734000" />
     </task>
     <servers />
   </component>
